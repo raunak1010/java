@@ -6,3 +6,4 @@ public class Clg_02_program {
         System.out.println("My name is "+name+ "and I am "+age+"  year old");
     }
 }
+

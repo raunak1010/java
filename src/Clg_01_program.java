@@ -32,4 +32,4 @@ public class Clg_01_program {
         System.out.println(n);
 
 
-}
+}}
