@@ -1,5 +1,5 @@
 import java .util.Scanner;
-public class Clog_12_program {
+public class Clg_12_program {
 
     public static void main(String[] args) {
 
