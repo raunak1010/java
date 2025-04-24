@@ -10,7 +10,7 @@ public class Clg_25_program {
             merged[i] = arr1[i];
         }
         for(int i = 0  ; i < arr2.length ; i++){
-            merged[arr1.length + i] = arr2[i];
+            merged[arr1.length + i] = arr2[i]; 
         }
 
         System.out.print("merged array : ");
