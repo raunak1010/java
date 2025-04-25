@@ -10,7 +10,7 @@ public class Clg_26_program {
                 if(arr1[i]==arr2[j]){
                     System.out.print(arr1[i]+" ");
                     break;
-                }
+                 }
             }
         }
     }
